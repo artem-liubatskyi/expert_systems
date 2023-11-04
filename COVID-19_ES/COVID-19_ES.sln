@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "COVID-19_ES", "COVID-19_ES\COVID-19_ES.pyproj", "{A6F0D4C5-B83B-44C3-AD41-9E9A11101300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F0D4C5-B83B-44C3-AD41-9E9A11101300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F0D4C5-B83B-44C3-AD41-9E9A11101300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2441C9F-3E54-4684-9A14-18256FA83AA8}
+	EndGlobalSection
+EndGlobal
